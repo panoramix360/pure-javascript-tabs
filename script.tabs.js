@@ -3,7 +3,7 @@ window.onload = function() {
 	var plugins = (function() {
 
 		/**
-		*	Função inicializa as abas, escondendo as divs e apenas mostrando as que devem aparecer inicialmente
+		*	Função inicializa as abas, escondendo as divs e apenas mostrando as que devem aparecer inicialmente.
 		*/
 		function initialize() {
 
